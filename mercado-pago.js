@@ -1,1 +1,3 @@
-console.log("Hello, World!");
+const m = `mercado pago`;
+const d = `devedor`;
+console.log(m, d);
